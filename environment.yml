@@ -9,3 +9,4 @@ dependencies:
   - plotly
   - pandas
   - nbformat>=4.2.0
+  - scipy
